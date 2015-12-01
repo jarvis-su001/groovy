@@ -4,5 +4,6 @@
 class T {
     static void main(args){
         3.times {println "Hello "}
+
     }
 }
